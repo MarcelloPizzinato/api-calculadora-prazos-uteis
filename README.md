@@ -20,7 +20,7 @@ O projeto foi construído seguindo boas práticas de separação de responsabili
 ## Como executar o projeto localmente
 
 1. Clone este repositório no seu computador.
-2. Instale as dependências necessárias executando o comando abaixo no terminal:
+2. Instale as dependências necessárias executando o comando a seguir no terminal:
    `pip install fastapi uvicorn requests`
 3. Inicie o servidor com o comando:
    `uvicorn app.main:app --reload`
