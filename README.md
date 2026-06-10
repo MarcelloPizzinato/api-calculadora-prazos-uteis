@@ -15,7 +15,7 @@ O sistema pula automaticamente os finais de semana e os feriados nacioanis, gara
 
 O projeto foi construído seguindo boas práticas de separação de responsabilidades:
 * `main.py`: Responsável por gerenciar rotas da API e a comunicação HTTP.
-* `prazo_service.py: Isola as regra de negócio, realizando o cálculo matemático de datas e o consumo da BrasilAPI.
+* `prazo_service.py`: Isola as regra de negócio, realizando o cálculo matemático de datas e o consumo da BrasilAPI.
 
 ## Como executar o projeto localmente
 
